@@ -15,12 +15,8 @@ DOMAIN,litter.catbox.moe,DIRECT
 DOMAIN,luvme.de5.net,DIRECT
 DOMAIN,fd.kunkka-emby.us.ci,DIRECT
 DOMAIN,emby.9527.new.tg,DIRECT
-DOMAIN,api.iturrit.com,香港时延优选
-DOMAIN-SUFFIX,okemby.org,兜底后备策略
 DOMAIN,emby.my,DIRECT
 DOMAIN,speedtest-babybus.apple-cdn.net,DIRECT
 DOMAIN,hk2.dylan.xin,DIRECT
 DOMAIN,embycc.wybcs.work,DIRECT
 DOMAIN-KEYWORD,yusen,DIRECT
-DOMAIN-SUFFIX,nt-www.applilink.jp,日本手动策略
-DOMAIN-SUFFIX,konami.net,日本手动策略
